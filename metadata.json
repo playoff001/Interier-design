@@ -1,0 +1,5 @@
+{
+  "name": "AI Interior Designer",
+  "description": "An interactive app to redesign your room. Upload a photo, select a style, and see an AI-generated redesign. Further refine the design through a contextual chat interface and get inspiration for new products.",
+  "requestFramePermissions": []
+}
